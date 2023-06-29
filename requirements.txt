@@ -1,4 +1,9 @@
 numpy
+matplotlib
 pandas
+scikit-learn
 openpyxl
-click
+# click
+imblearn
+xgboost
+seaborn
