@@ -4,6 +4,7 @@ pandas
 scikit-learn
 openpyxl
 # click
-imblearn
+imbalanced-learn
 xgboost
 seaborn
+notebook
